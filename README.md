@@ -37,17 +37,17 @@ Passive Tags: These tags do not have a power source of their own. They rely on t
 Active Tags: Active RFID tags have their own power source (typically a battery) to actively transmit signals. They can have longer read ranges and are often used for tracking high-value assets or in applications where longer-range communication is necessary.
 2. RFID Readers:
 RFID readers, also known as interrogators, are devices that send and receive radio signals to communicate with RFID tags. They extract data from the tags and pass it to the central system for processing.
-3.Antennas:
+3. Antennas:
 Antennas are crucial components in both RFID tags and readers. They facilitate the transmission and reception of radio signals. The design and orientation of antennas impact the read range and overall performance of the RFID system.
-4.RFID Frequencies:
+4. RFID Frequencies:
 RFID systems operate at different frequencies, and the choice of frequency depends on the specific application and requirements. Common RFID frequency bands include:
-Low-Frequency (LF): 125-134 kHz
-High-Frequency (HF): 13.56 MHz
-Ultra-High Frequency (UHF): 860-960 MHz
-Microwave (MW): 2.45 GHz
-5.RFID Protocols:
+i. Low-Frequency (LF): 125-134 kHz
+ii. High-Frequency (HF): 13.56 MHz
+iii. Ultra-High Frequency (UHF): 860-960 MHz
+iv. Microwave (MW): 2.45 GHz
+5. RFID Protocols:
 RFID systems use various communication protocols to facilitate data exchange between tags and readers. Examples include EPC (Electronic Product Code), ISO 14443 (used in NFC), and ISO 18000 (UHF RFID standard).
-6.Data Storage and Encoding:
+6. Data Storage and Encoding:
 RFID tags can store data, such as a unique identifier or additional information. Encoding methods include memory encoding and encoding standards like EPC for supply chain applications.
-7.RFID Software and Integration:
+7. RFID Software and Integration:
 RFID systems often require software for configuration, monitoring, and integration with other enterprise systems. This software may include inventory management, asset tracking, or access control applications.
